@@ -1,5 +1,3 @@
-[![codecov](https://codecov.io/gh/practicajs/practica/branch/main/graph/badge.svg)](https://codecov.io/gh/practicajs/practica)
-
 # Running the example app
 
 ## Prerequisites
@@ -14,4 +12,3 @@
 2. Run `npm i`
 3. Run `nvm use`
 4. Run the tests `Run t`
-   
